@@ -15,7 +15,6 @@
 		6DB9BE681CB3DD4D00EA2640 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DB9BE661CB3DD4D00EA2640 /* LaunchScreen.storyboard */; };
 		6DB9BE731CB3DD4D00EA2640 /* ExampleTestCasesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DB9BE721CB3DD4D00EA2640 /* ExampleTestCasesTests.m */; };
 		6DB9BE7E1CB3DD4D00EA2640 /* ExampleTestCasesUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DB9BE7D1CB3DD4D00EA2640 /* ExampleTestCasesUITests.m */; };
-		6DB9BE8C1CB3E1CB00EA2640 /* circle.yml in Resources */ = {isa = PBXBuildFile; fileRef = 6DB9BE8B1CB3E1CB00EA2640 /* circle.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		6DB9BE791CB3DD4D00EA2640 /* ExampleTestCasesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExampleTestCasesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DB9BE7D1CB3DD4D00EA2640 /* ExampleTestCasesUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExampleTestCasesUITests.m; sourceTree = "<group>"; };
 		6DB9BE7F1CB3DD4D00EA2640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6DB9BE8B1CB3E1CB00EA2640 /* circle.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = circle.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +101,6 @@
 		6DB9BE571CB3DD4D00EA2640 /* ExampleTestCases */ = {
 			isa = PBXGroup;
 			children = (
-				6DB9BE8B1CB3E1CB00EA2640 /* circle.yml */,
 				6DB9BE5B1CB3DD4D00EA2640 /* AppDelegate.h */,
 				6DB9BE5C1CB3DD4D00EA2640 /* AppDelegate.m */,
 				6DB9BE5E1CB3DD4D00EA2640 /* ViewController.h */,
@@ -246,7 +243,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DB9BE8C1CB3E1CB00EA2640 /* circle.yml in Resources */,
 				6DB9BE681CB3DD4D00EA2640 /* LaunchScreen.storyboard in Resources */,
 				6DB9BE651CB3DD4D00EA2640 /* Assets.xcassets in Resources */,
 				6DB9BE631CB3DD4D00EA2640 /* Main.storyboard in Resources */,
